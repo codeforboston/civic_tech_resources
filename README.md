@@ -1,11 +1,19 @@
 # Boston Civic Technology Resources
 A collection of civic tech resources: APIs, Libraries, etc.
 
-####[City Of Boston on Github](https://github.com/CityOfBoston)
-####[Harvard Center for Civic Media on Github](https://github.com/c4fcm)
-####[Knight Lab on Github](https://github.com/NUKnightLab)
+###Organizations on GitHub
+  - [City Of Boston on Github](https://github.com/CityOfBoston)
+  - [Harvard Center for Civic Media on Github](https://github.com/c4fcm)
+  - [Knight Lab on Github](https://github.com/NUKnightLab)
 
-####[Boston Open Gov](http://www.cityofboston.gov/open/)
+###Organizations
+  - [Boston Open Gov](http://www.cityofboston.gov/open/)
+  - [Metro Boston Data Common](http://metroboston.datacommon.org/)
+  - [Boston Indicators Project](http://www.bostonindicators.org/)
+  - [Metropolitan Area Planning Council](http://www.mapc.org/)
+  - [Civic Data Design Lab (MIT)](http://www.civicdatadesignlab.org/)
+  - [Center for Civic Media (MIT)](https://civic.mit.edu/)
+  - [enGAgeMEnt LAB (Emerson)](http://engagementgamelab.org/)
 
 
 ##APIs/Data:
@@ -30,11 +38,17 @@ A collection of civic tech resources: APIs, Libraries, etc.
     - [Service Requests (311)](https://data.cityofboston.gov/City-Services/Mayor-s-24-Hour-Hotline-Service-Requests/awu8-dc52)
     - [City Spending](https://data.cityofboston.gov/Finance/Checkbook-Explorer/gqai-h7bg)
     - [Transit Schedules](http://www.mbta.com/rider_tools/developers/)
-    - 
 
 
 ##Libraries/tools
   - [libMBTA (php)](https://github.com/standaloneSA/libMBTA)
+
+
+
+##Good Reads
+  - [Design Action Research With Government - guidebook](http://engagementgamelab.org/pdfs/darg.pdf)
+  
+
 
 ##Other things
   - [Code For America Apps](https://www.codeforamerica.org/apps/)
