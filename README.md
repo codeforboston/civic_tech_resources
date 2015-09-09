@@ -6,6 +6,7 @@ A collection of civic tech resources: APIs, Libraries, etc.
   - [Harvard Center for Civic Media on Github](https://github.com/c4fcm)
   - [Knight Lab on Github](https://github.com/NUKnightLab)
   - [Dudley Street Neighborhood Initiative (DSNI)](https://github.com/dsni)
+  - [Cambridge GIS](https://github.com/cambridgegis)
 
 ###Organizations
   - [Boston Open Gov](http://www.cityofboston.gov/open/)
