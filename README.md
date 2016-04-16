@@ -31,7 +31,7 @@ A collection of civic tech resources: APIs, Libraries, etc.
   - [Government Sponsored Enterprise Data](http://www.huduser.org/portal/datasets/gse.html)
   - [Low Income Housing Tax Credit](http://lihtc.huduser.org/)
   - [National Housing Preservation Database](http://www.preservationdatabase.org/)
- - [N.A.S.A API Documentation](https://github.com/nasa/api-docs)
+  - [N.A.S.A API Documentation](https://github.com/nasa/api-docs)
   - [Assisted Housing National & Local](http://www.huduser.org/portal/datasets/assthsg.html)
   - [USPS Address Vacancies](http://www.huduser.org/portal/datasets/usps.html)
   - [IRS Tax stats](http://www.irs.gov/uac/Tax-Stats-2)
